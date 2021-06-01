@@ -77,5 +77,5 @@ In order to deliver this the email service expects list of reports with all the 
 * Database implementation is not required, feel free to stub out any data access.
 * Code following SOLID principles
 
-##Thank you, and good luck!!
+## Thank you, and good luck!!
 
