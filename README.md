@@ -73,4 +73,3 @@ In order to deliver this the email service expects list of reports with all the 
 
 
 ## Additional Guidelines
-
