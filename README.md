@@ -73,3 +73,9 @@ In order to deliver this the email service expects list of reports with all the 
 
 
 ## Additional Guidelines
+* Code to be completed with an appropriate level of testing using your favourite Unit testing an mocking frameworks.
+* Database implementation is not required, feel free to stub out any data access.
+* Code following SOLID principles
+
+##Thank you, and good luck!!
+
