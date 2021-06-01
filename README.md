@@ -1,6 +1,6 @@
 # ABI Technical Test
 
-**Background**
+*Background*
 
 The ABI platform allows our _analysts_ to publish online articles for _users_. _Users_ can be entitled to one or more _channel_.
 
