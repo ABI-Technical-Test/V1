@@ -1,6 +1,7 @@
 # ABI Technical Test
 
 **Background**
+
 The ABI platform allows our _analysts_ to publish online articles for _users_. _Users_ can be entitled to one or more _channel_.
 
 A _report_ is linked to a channel and report publication details are stored in the database whenever they are published. On the online platform _users_ can view the relevant reports based on their selection. The dataset is like below:
