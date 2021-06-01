@@ -35,5 +35,6 @@ Assume that the feature to allow the client to select their subscription prefere
 As a customer I want to receive a 'round-up' email on the day I have specified for all my subscribed reports that have been published since my last 'round-up' email.
 
 
-### Additional Guidelines
+## Additional Guidelines
+...
 
