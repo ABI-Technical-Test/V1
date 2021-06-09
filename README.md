@@ -77,6 +77,8 @@ In order to deliver this the email service expects list of reports with all the 
 * Database implementation is not required, feel free to stub out any data access.
 * Code following SOLID principles
 * Please put the code into a DropBox, OneDrive, GoogleDrive etc and share the link with DL-A-Global-AgribusinessDevelopers@ihsmarkit.com
+* Keep the code clean, simple and easily readable
+* If you want you can include a readme file to talk about your thought process
 
 ## Thank you, and good luck!!
 
